@@ -1,4 +1,4 @@
-module github.com/nesterlai1994/nesoli
+module github.com/nestorlai1994/nesoli
 
 go 1.22.5
 
